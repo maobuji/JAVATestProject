@@ -17,6 +17,7 @@
 
     <modules>
         <module>testcouchdb</module>
+        <module>createrandomfile</module>
     </modules>
 
 </project>

@@ -1,0 +1,1 @@
+为jcouchdb增加了mango查询的方法

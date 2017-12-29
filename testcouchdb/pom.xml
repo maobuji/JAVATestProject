@@ -10,8 +10,6 @@
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.google.code.jcouchdb/jcouchdb -->
-        <!-- https://mvnrepository.com/artifact/com.google.code.jcouchdb/jcouchdb -->
-        <!-- https://mvnrepository.com/artifact/com.google.code.jcouchdb/jcouchdb -->
         <dependency>
             <groupId>com.google.code.jcouchdb</groupId>
             <artifactId>jcouchdb</artifactId>

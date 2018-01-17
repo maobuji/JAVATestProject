@@ -1,0 +1,4 @@
+本项目对应的版本是kafka1.0版本
+
+bin目录下有启动kafka的命令，可以将对应的bat或者.sh放到kafka的目录下与kafka的bin目录同级。
+即可启动zk和kafka

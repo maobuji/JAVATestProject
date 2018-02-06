@@ -19,6 +19,7 @@
         <module>testcouchdb</module>
         <module>createrandomfile</module>
         <module>testkafka1version</module>
+        <module>testletsgo</module>
     </modules>
 
 </project>
